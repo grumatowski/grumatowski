@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grumatowski
 - 👀 I’m interested in ICT
-- 🌱 I’m currently learning Terragrunt, Ansible, K8s
+- 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
